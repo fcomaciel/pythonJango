@@ -1,0 +1,11 @@
+total 68
+drwxrwxr-x  3 professor professor  4096 Dez 14 19:24 .
+drwxr-xr-x 23 professor professor  4096 Dez 14 18:54 ..
+-rw-r--r--  1 professor professor   369 Dez 12 19:57 00nomeVariavel.py
+-rw-r--r--  1 professor professor   536 Dez 12 19:57 01nomeVariaisMnemonicos.py
+drwxrwxr-x  8 professor professor  4096 Dez 14 19:24 .git
+-rw-rw-r--  1 professor professor  1045 Dez 12 20:40 .gitignore
+-rw-rw-r--  1 professor professor 35141 Dez 12 20:40 LICENSE
+-rw-rw-r--  1 professor professor    55 Dez 12 20:40 README.md
+-rw-rw-r--  1 professor professor    48 Dez 12 19:38 scripts.txt
+-rw-rw-r--  1 professor professor     0 Dez 14 19:26 teste123
